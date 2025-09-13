@@ -1,3 +1,5 @@
 /OK
 /INPUT_FOLDER
 .idea
+exif_remover.py
+img_labeller.py
